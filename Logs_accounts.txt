@@ -1,8 +1,8 @@
 {
     "binayw.1@outlook.com": {
-        "Last check": "2023-05-08",
-        "Today's points": 465,
-        "Points": 2595
+        "Last check": "2023-05-09",
+        "Today's points": 425,
+        "Points": 3020
     },
-    "Elapsed time": "00:14:18"
+    "Elapsed time": "00:11:35"
 }
